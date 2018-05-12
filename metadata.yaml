@@ -1,0 +1,35 @@
+_repo: The-Wind-Bloweth_21999
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bellows, George
+    alias: Bellows, George Wesley
+    birthdate: 1882
+    deathdate: 1925
+    gutenberg_agent_id: '36546'
+    url: http://www.gutenberg.org/2009/agents/36546
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Byrne, Donn
+    alias: Donn-Byrne, Brian Oswald
+    birthdate: 1889
+    deathdate: 1928
+    gutenberg_agent_id: '805'
+    url: http://www.gutenberg.org/2009/agents/805
+description: ''
+gutenberg_issued: '2007-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: The Wind Bloweth
+url: http://www.gutenberg.org/ebooks/21999
